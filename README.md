@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=seansweeney&theme=dracula&hide_rank=true&count_private=true&show_icons=true&hide_border=true" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/lboyd93/github-readme-stats">
+  <a href="https://github.com/seansweeney/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seansweeney&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
