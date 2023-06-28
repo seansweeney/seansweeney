@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there 👋 I'm Sean Sweeney</h1>
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=30"> 
+   <img src="https://raw.githubusercontent.com/seansweeney/seansweeney/main/images/pronouns/hehim.svg"> 
 </div>
 
 <p align='center'>
