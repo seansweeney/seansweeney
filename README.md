@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there 👋 I'm Sean Sweeney</h1>
+    <h1>:raising_hand_man: Hi I'm Sean Sweeney :upside_down_face:</h1>
    <img src="https://raw.githubusercontent.com/seansweeney/seansweeney/main/images/pronouns/hehim.svg"> 
 </div>
 
