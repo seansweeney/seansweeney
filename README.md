@@ -1,4 +1,20 @@
-### Hi there 👋 I'm Sean Sweeney
+<div align="center">
+    <h1>Hi there 👋 I'm Sean Sweeney</h1>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=30"> 
+</div>
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/sweeney-sean/"><img height="30" src="https://github.com/seansweeney/seansweeney/blob/main/images/social/LI-In-Bug.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/hiker4k"><img height="30" src="https://raw.githubusercontent.com/seansweeney/seansweeney/main/images/social/Twitter%20Logo%20blue.svg"></a>&nbsp;&nbsp;
+    
+<!--
+   
+<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ -->
+ </p>
 
 <!--
 **seansweeney/seansweeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +27,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <p align="center">
