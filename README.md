@@ -1,7 +1,11 @@
 <div align="center">
     <h1>:raising_hand_man: Hi I'm Sean Sweeney :upside_down_face:</h1>
-   <img src="https://raw.githubusercontent.com/seansweeney/seansweeney/main/images/pronouns/hehim.svg"> 
+    <img src="https://raw.githubusercontent.com/seansweeney/seansweeney/main/images/pronouns/hehim.svg"> 
 </div>
+
+<p align="center">
+Shaving yaks and <a href= "https://xkcd.com/1319/">automating</a> all the things.
+</p>
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/sweeney-sean/"><img height="30" src="https://github.com/seansweeney/seansweeney/blob/main/images/social/LI-In-Bug.png"></a>&nbsp;&nbsp;
