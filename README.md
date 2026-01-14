@@ -38,7 +38,7 @@ Here are some ideas to get you started:
      https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
      favorites: dracula, vision-friendly-dark -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seansweeney&theme=vision-friendly-dark&hide_rank=true&count_private=true&show_icons=true&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=seansweeney&theme=vision-friendly-dark&hide_rank=true&count_private=true&show_icons=true&hide_border=true" />
   &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seansweeney&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seansweeney&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
